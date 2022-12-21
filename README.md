@@ -1,2 +1,2 @@
 # gittest2
-A private github repo, test2
+A github repo, test2
